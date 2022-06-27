@@ -1,0 +1,23 @@
+## Git e GitHub
+
+cmd (terminal de comandos do windows)
+
+ dir - listar os repositórios
+ cd - mudar de diretório
+ mkdir - criar diretórios
+ del/rm - deletar
+ cls - limpar a tela
+ ctrl+l - limpar a tela no Git
+
+chave ssh - forma segura de estabelcer conexão encriptada entre duas máquinas.
+token de acesso - chave pessoal
+
+## Criando um Repositório
+
+ git init (iniciar: criar um repositório)
+ ls -a (mostra arquuivos ocultos)
+ cd .. (voltar um nível para dentro da pasta)
+ ls (lista o que tem dentro da pasta)
+ git status (monitora o status dos arquivos)
+ git add . (adiciona todos os documentos existentes na página local ao servidor remoto)
+ git commit -m "" (escrever comentário)
